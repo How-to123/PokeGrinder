@@ -1,14 +1,14 @@
 {   
     "general": {
-        "token": "",
-        "userid": 69699696969699696,
+        "token": "OTE5ODY4OTc4MjI5Mjg0OTA2.YeAUJg.nyTL5jgCTmo-aRmzquA4a_IPYx0",
+        "userid": 916220980920205342,
         "hunting": "enable",
-        "channelid": 696969969699696969,
+        "channelid": 925340913218240515,
         "fishing": "disable",
-        "fishchannelid": 696996969969696996,
+        "fishchannelid": 925340913218240515,
         "anticaptcha_token": "",
         "captcha_solver": "disable",
-        "captcha_notifier": "disable",
+        "captcha_notifier": "enable",
         "eggs": "enable",
         "autobuy": "enable"
     },
@@ -20,20 +20,20 @@
     },
 
     "rarities": {
-        "Common": "gb",
-        "Uncommon": "gb",
+        "Common": "pb",
+        "Uncommon": "pb",
         "Rare": "gb",
         "Super Rare": "ub",
         "Alolan": "mb",
-        "Cheap_legendary": "prb",
+        "Cheap_legendary": "ub",
         "Legendary": "mb",
         "Shiny": "mb",
-        "Full_odds": "ub"
+        "Full_odds": "prb"
     },
 
     "fishrarities": {
-        "Common": "ub",
-        "Uncommon": "ub",
+        "Common": "pb",
+        "Uncommon": "gb",
         "Rare": "ub",
         "Super Rare": "ub",
         "Legendary": "mb",
@@ -42,9 +42,9 @@
     },
 
     "autobuy": {
-        "pokeball": 1000,
-        "greatball": 500,
-        "ultraball": 100,
-        "masterball": 5
+        "pokeball": 10,
+        "greatball": 5,
+        "ultraball": 1,
+        "masterball": 0
     }
 }
